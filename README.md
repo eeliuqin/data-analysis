@@ -1,6 +1,6 @@
 # Projects of Data Analysis
 
-This repository is a series of notebooks of data analysis projects using Python or R.
+This repository is a series of notebooks of data analysis related projects using Python or R.
 
 Some features like internal links, SVG are not rendered correctly in GitHub, so it's recommended to view it in nbviewer, a tool created by Jupyter community
 for rendering a notebook hosted on GitHub.
@@ -31,3 +31,9 @@ Here is the list of projects and the corresponding nbviewer links:
 
 - [Project 7: Exploring NYC High Schools Perceptions](https://github.com/eeliuqin/data-analysis/blob/main/project-7-nyc-high-schools-perceptions.ipynb)<br/>
   [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-7-nyc-high-schools-perceptions.ipynb)
+
+## A/B Testing
+
+- [Udacity A/B Testing Final Project: Free Trial Screener](https://github.com/eeliuqin/data-analysis/blob/main/AB-Testing/Udacity-AB-Testing-Final-Project.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/AB-Testing/Udacity-AB-Testing-Final-Project.ipynb)
+  
