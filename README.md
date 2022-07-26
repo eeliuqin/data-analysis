@@ -21,8 +21,6 @@ Here is the list of projects and the corresponding nbviewer links:
 - [Project 4: Visualizing U.S. Plug-in Electric Vehicle Sales](https://github.com/eeliuqin/data-analysis/blob/main/project-4-us-plug-in-electric-vehicle-sales.ipynb)<br/>
   [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-4-us-plug-in-electric-vehicle-sales.ipynb)
 
-- [Capstone Project of the Google Data Analytics Professional Certificate: Cyclistic Bike-Share Analysis](https://github.com/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb)<br/>
-  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb)
 
 ## R
 
@@ -34,6 +32,9 @@ Here is the list of projects and the corresponding nbviewer links:
 
 - [Project 7: Exploring NYC High Schools Perceptions](https://github.com/eeliuqin/data-analysis/blob/main/project-7-nyc-high-schools-perceptions.ipynb)<br/>
   [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-7-nyc-high-schools-perceptions.ipynb)
+
+- [Capstone Project of the Google Data Analytics Professional Certificate: Cyclistic Bike-Share Analysis](https://github.com/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb)
 
 ## A/B Testing
 
