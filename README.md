@@ -30,8 +30,8 @@ Here is the list of projects and the corresponding nbviewer links:
 - [Project 6: Analyzing Forest Fires Data](https://github.com/eeliuqin/data-analysis/blob/main/project-6-forest-fires.ipynb)<br/>
   [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-6-forest-fires.ipynb)
 
-- [Project 7: Exploring NYC High Schools Perceptions](https://github.com/eeliuqin/data-analysis/blob/main/project-7-nyc-high-schools-perceptions.ipynb)<br/>
-  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-7-nyc-high-schools-perceptions.ipynb)
+- [Project 7: Exploring NYC High Schools Perceptions](https://github.com/eeliuqin/data-analysis/blob/main/nyc-high-schools-perceptions.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/nyc-high-schools-perceptions.ipynb)
 
 - [Capstone Project of the Google Data Analytics Professional Certificate: Cyclistic Bike-Share Analysis](https://github.com/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb)<br/>
   [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb)
