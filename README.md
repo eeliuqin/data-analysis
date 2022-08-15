@@ -9,35 +9,37 @@ Here is the list of projects and the corresponding nbviewer links:
 
 ## Python
 
-- [Project 1: Exploring CIA World Factbook](https://github.com/eeliuqin/data-analysis/blob/main/project-1-cia-world-factbook-visualization.ipynb)<br/>
-  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-1-cia-world-factbook-visualization.ipynb)
+- [Exploring CIA World Factbook](https://github.com/eeliuqin/data-analysis/blob/main/cia-world-factbook-visualization.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/cia-world-factbook-visualization.ipynb)
 
-- [Project 2: Finding the Most Popular Data Science Questions](https://github.com/eeliuqin/data-analysis/blob/main/project-2-popular-data-science-questions.ipynb)<br/>
-  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-2-popular-data-science-questions.ipynb)
+- [Finding the Most Popular Data Science Questions](https://github.com/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb)
 
-- [Project 3: Analyzing Strategy Games on Apple App Store](https://github.com/eeliuqin/data-analysis/blob/main/project-3-mobile-strategy-games.ipynb)<br/>
-  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-3-mobile-strategy-games.ipynb)
+- [Analyzing Strategy Games on Apple App Store](https://github.com/eeliuqin/data-analysis/blob/main/mobile-strategy-games.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/mobile-strategy-games.ipynb)
 
-- [Project 4: Visualizing U.S. Plug-in Electric Vehicle Sales](https://github.com/eeliuqin/data-analysis/blob/main/project-4-us-plug-in-electric-vehicle-sales.ipynb)<br/>
-  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-4-us-plug-in-electric-vehicle-sales.ipynb)
+- [Visualizing U.S. Plug-in Electric Vehicle Sales](https://github.com/eeliuqin/data-analysis/blob/main/us-plug-in-electric-vehicle-sales.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/us-plug-in-electric-vehicle-sales.ipynb)
 
 
 ## R
 
-- [Project 5: Understanding Worldwide COVID-19 Vaccination Progress](https://github.com/eeliuqin/data-analysis/blob/main/project-5-covid19-vaccination-progress.ipynb)<br/>
-  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-5-covid19-vaccination-progress.ipynb)
+- [Understanding Worldwide COVID-19 Vaccination Progress](https://github.com/eeliuqin/data-analysis/blob/main/covid19-vaccination-progress.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/covid19-vaccination-progress.ipynb)
 
-- [Project 6: Analyzing Forest Fires Data](https://github.com/eeliuqin/data-analysis/blob/main/project-6-forest-fires.ipynb)<br/>
-  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/project-6-forest-fires.ipynb)
+- [Analyzing Forest Fires Data](https://github.com/eeliuqin/data-analysis/blob/main/forest-fires.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/forest-fires.ipynb)
 
-- [Project 7: Exploring NYC High Schools Perceptions](https://github.com/eeliuqin/data-analysis/blob/main/nyc-high-schools-perceptions.ipynb)<br/>
+- [Exploring NYC High Schools Perceptions](https://github.com/eeliuqin/data-analysis/blob/main/nyc-high-schools-perceptions.ipynb)<br/>
   [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/nyc-high-schools-perceptions.ipynb)
 
 - [Capstone Project of the Google Data Analytics Professional Certificate: Cyclistic Bike-Share Analysis](https://github.com/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb)<br/>
   [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb)
 
+- [Text Mining and Sentiment Analysis for NYC Airbnb Reviews](https://github.com/eeliuqin/data-analysis/blob/main/airbnb-nyc-sentiment-analysis.ipynb)<br/>
+  [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/airbnb-nyc-sentiment-analysis.ipynb)
+
 ## A/B Testing
 
 - [Udacity A/B Testing Final Project: Free Trial Screener](https://github.com/eeliuqin/data-analysis/blob/main/AB-Testing/Udacity-AB-Testing-Final-Project.ipynb)<br/>
   [Click to view it in nbviewer](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/AB-Testing/Udacity-AB-Testing-Final-Project.ipynb)
-  
