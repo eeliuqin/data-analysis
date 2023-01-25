@@ -10,7 +10,7 @@ Here is the list of projects and the corresponding nbviewer links:
 
 - [Visualizing U.S. Plug-in Electric Vehicle Sales](https://github.com/eeliuqin/data-analysis/blob/main/us-plug-in-electric-vehicle-sales.ipynb) (clich [hear](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/us-plug-in-electric-vehicle-sales.ipynb) to view it in nbviewer)
   * Task: EDA of the U.S. PEV sales data, finding out the top models, top makers, and Tesla vs. Non Tesla sales.
-  * Data source: [us-plug-in-ev-sales.csv](https://github.com/eeliuqin/data-analysis/blob/main/data/us-plug-in-ev-sales.csv) contains U.S. Plug-in Electric Vehicle Sales, 2010-2022. It was scraped from 4 websites about auto.
+  * Data source: The data file [us-plug-in-ev-sales.csv](https://github.com/eeliuqin/data-analysis/blob/main/data/us-plug-in-ev-sales.csv) contains U.S. Plug-in Electric Vehicle Sales, 2010-2022. It was scraped from 4 websites about auto.
   * Visualization:
   <p align="center">
   <a href="https://public.tableau.com/app/profile/qinliu/viz/2010-2019U_S_Plug-inElectricVehiclesPEVSales/PEVSalesStory" target="_blank">
@@ -28,12 +28,17 @@ Here is the list of projects and the corresponding nbviewer links:
     <img alt="Average Price" src="images/games/avg-price.png" width="46%">
     &nbsp; &nbsp;
     <img alt="Word Cloud" src="images/games/words.png" width="46%">
-    &nbsp; &nbsp;
   </p>
 
 - [Finding the Most Popular Data Science Questions](https://github.com/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb) to view it in nbviewer)
   * Task: Finding out the most popular data science questions and provide recommendations for online education sites that focus on data science.
   * Data source: Run SQL query and download the corresponding .csv file from [Data Science Stack Exchange](https://data.stackexchange.com/datascience/query/new)
+  * Visualization:
+  <p align="center">
+    <img alt="Quartly frequency of tag deep learning" src="images/da-questions/trend.png" width="46%">
+    &nbsp; &nbsp;
+    <img alt="Python vs. R" src="images/ds-questions/python-vs-r.png" width="46%">
+  </p>
 
 - [Exploring CIA World Factbook](https://github.com/eeliuqin/data-analysis/blob/main/cia-world-factbook-visualization.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/cia-world-factbook-visualization.ipynb) to view it in nbviewer)
   * Task: EDA of the world's facts, including population, population density, population growth rate, mortality rate, and migration rate.
