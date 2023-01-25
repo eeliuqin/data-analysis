@@ -14,7 +14,7 @@ Here is the list of projects and the corresponding nbviewer links:
   * Visualization:
   <p align="center">
   <a href="https://public.tableau.com/app/profile/qinliu/viz/2010-2019U_S_Plug-inElectricVehiclesPEVSales/PEVSalesStory" target="_blank">
-    Click to view it in Tableau
+    <p>Click to view it in Tableau</p>
     <img alt="PEV Sales Story in Tableau" src="images/pev/tableau-pev-sales.png" width="60%">
   </a>
   </p>
@@ -22,7 +22,7 @@ Here is the list of projects and the corresponding nbviewer links:
   
 - [Analyzing Strategy Games on Apple App Store](https://github.com/eeliuqin/data-analysis/blob/main/mobile-strategy-games.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/mobile-strategy-games.ipynb) to view it in nbviewer)
   * Task: Analyzing mobile strategy games by classifications, price, user ratings, and competitors. Providing recommendations to mobile game developers.
-  * Data source: 17K Mobile Strategy Games dataset found in [Kaggle](https://www.kaggle.com/datasets/tristan581/17k-apple-app-store-strategy-games?select=appstore_games.csv)
+  * Data source: 17K Mobile Strategy Games dataset found in [Kaggle](https://www.kaggle.com/datasets/tristan581/17k-apple-app-store-strategy-games?select=appstore_games.csv).
   * Visualization:
   <p align="center">
     <img alt="Average Price" src="images/games/avg-price.png" width="46%">
@@ -32,22 +32,22 @@ Here is the list of projects and the corresponding nbviewer links:
 
 - [Finding the Most Popular Data Science Questions](https://github.com/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb) to view it in nbviewer)
   * Task: Finding out the most popular data science questions and provide recommendations for online education sites that focus on data science.
-  * Data source: Run SQL query and download the corresponding .csv file from [Data Science Stack Exchange](https://data.stackexchange.com/datascience/query/new)
+  * Data source: Run SQL query and download the corresponding .csv file from [Data Science Stack Exchange](https://data.stackexchange.com/datascience/query/new).
   * Visualization:
   <p align="center">
-    <img alt="Quartly frequency of tag deep learning" src="images/da-questions/trend.png" width="46%">
+    <img alt="Quartly frequency of tag deep learning" src="images/ds-questions/trend.png" width="46%">
     &nbsp; &nbsp;
     <img alt="Python vs. R" src="images/ds-questions/python-vs-r.png" width="46%">
   </p>
 
 - [Exploring CIA World Factbook](https://github.com/eeliuqin/data-analysis/blob/main/cia-world-factbook-visualization.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/cia-world-factbook-visualization.ipynb) to view it in nbviewer)
   * Task: EDA of the world's facts, including population, population density, population growth rate, mortality rate, and migration rate.
-  * Data source: Single-File SQLite Distribution of 260+ World Factbook Country Profiles that can be downloaded from [Github](https://github.com/factbook/factbook.sql/releases)
+  * Data source: Single-File SQLite Distribution of 260+ World Factbook Country Profiles that can be downloaded from [Github](https://github.com/factbook/factbook.sql/releases).
   * Visualization:
   <p align="center">
-    <img alt="World Growth Rate" src="images/da-questions/growth-rate.png" width="46%">
+    <img alt="World Growth Rate" src="images/world-facts/growth-rate.png" width="46%">
     &nbsp; &nbsp;
-    <img alt="World Mortality Rate" src="images/ds-questions/mortality-rate.png" width="46%">
+    <img alt="World Mortality Rate" src="images/world-facts/mortality-rate.png" width="46%">
   </p>  
 
 
@@ -55,7 +55,7 @@ Here is the list of projects and the corresponding nbviewer links:
 
 - [Text Mining and Sentiment Analysis for NYC Airbnb Reviews](https://github.com/eeliuqin/data-analysis/blob/main/airbnb-nyc-sentiment-analysis.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/airbnb-nyc-sentiment-analysis.ipynb) to view it in nbviewer)
   * Task: Performing text mining and sentiment analysis on those reviews. Finding out why users leave negative reviews.
-  * Data source: 2009-2022 New York City Airbnb reviews. The data can be found [here](http://insideairbnb.com/get-the-data/)
+  * Data source: 2009-2022 New York City Airbnb reviews. The data can be found [here](http://insideairbnb.com/get-the-data/).
   * Visualization:
   <p align="center">
     <img alt="Common English Words" src="images/airbnb/common-words.png" width="46%">
@@ -65,7 +65,7 @@ Here is the list of projects and the corresponding nbviewer links:
 
 - [Capstone Project of the Google Data Analytics Professional Certificate: Cyclistic Bike-Share Analysis](https://github.com/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb) to view it in nbviewer)
   * Task: Analyzing how the Cyclistic bikes are used differently by casual riders and annual members. Devising a new marketing strategy to turn casual riders into annual members.
-  * Data source: Chicago Divvy Bicycle Sharing Data from May, 2021 to April, 2022. The data can be downloaded [here](https://divvy-tripdata.s3.amazonaws.com/index.html)
+  * Data source: Chicago Divvy Bicycle Sharing Data from May, 2021 to April, 2022. The data can be downloaded [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
   * Visualization:
   <p align="center">
     <img alt="Monthly Rides" src="images/bike-share/monthly-rides.png" width="46%">
@@ -106,6 +106,7 @@ Here is the list of projects and the corresponding nbviewer links:
 ## A/B Testing
 
 - [Udacity A/B Testing Final Project: Free Trial Screener](https://github.com/eeliuqin/data-analysis/blob/main/AB-Testing/Udacity-AB-Testing-Final-Project.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/AB-Testing/Udacity-AB-Testing-Final-Project.ipynb) to view it in nbviewer)
+
   **Experiment**:
 
   Udacity tested a change where if the student clicked start free trial, they saw a pop up modal that asked them how much time they had available to devote to the course. The critical value was 5 hours:
