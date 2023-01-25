@@ -10,14 +10,28 @@ Here is the list of projects and the corresponding nbviewer links:
 
 - [Visualizing U.S. Plug-in Electric Vehicle Sales](https://github.com/eeliuqin/data-analysis/blob/main/us-plug-in-electric-vehicle-sales.ipynb) (clich [hear](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/us-plug-in-electric-vehicle-sales.ipynb) to view it in nbviewer)
   * Task: EDA of the U.S. PEV sales data, finding out the top models, top makers, and Tesla vs. Non Tesla sales.
-  * Data source: U.S. Plug-in Electric Vehicle Sales, 2010-2022, the [.csv](https://github.com/eeliuqin/data-analysis/blob/main/data/us-plug-in-ev-sales.csv) file was scraped from 4 websites.
+  * Data source: [us-plug-in-ev-sales.csv](https://github.com/eeliuqin/data-analysis/blob/main/data/us-plug-in-ev-sales.csv) contains U.S. Plug-in Electric Vehicle Sales, 2010-2022. It was scraped from 4 websites about auto.
+  * Visualization:
+  <p align="center">
+  <a href="https://public.tableau.com/app/profile/qinliu/viz/2010-2019U_S_Plug-inElectricVehiclesPEVSales/PEVSalesStory" target="_blank">
+    Click to view it in Tableau
+    <img alt="PEV Sales Story in Tableau" src="images/pev/tableau-pev-sales.png" width="80%">
+  </a>
+  </p>
+
   
 - [Analyzing Strategy Games on Apple App Store](https://github.com/eeliuqin/data-analysis/blob/main/mobile-strategy-games.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/mobile-strategy-games.ipynb) to view it in nbviewer)
   * Task: Analyzing mobile strategy games by classifications, price, user ratings, and competitors. Providing recommendations to mobile game developers.
   * Data source: 17K Mobile Strategy Games dataset found in [Kaggle](https://www.kaggle.com/datasets/tristan581/17k-apple-app-store-strategy-games?select=appstore_games.csv)
+  * Visualization:
+  <p align="center">
+    <img alt="Average Price" src="images/games/avg-price.png" width="46%">
+    &nbsp; &nbsp;
+    <img alt="Word Cloud" src="images/games/words.png" width="46%">
+    &nbsp; &nbsp;
+  </p>
 
-
-- [Finding the Most Popular Data Science Questions](https://github.com/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb) (click [here] (https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb) to view it in nbviewer)
+- [Finding the Most Popular Data Science Questions](https://github.com/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/popular-data-science-questions.ipynb) to view it in nbviewer)
   * Task: Finding out the most popular data science questions and provide recommendations for online education sites that focus on data science.
   * Data source: Run SQL query and download the corresponding .csv file from [Data Science Stack Exchange](https://data.stackexchange.com/datascience/query/new)
 
