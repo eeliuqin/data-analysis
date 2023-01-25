@@ -12,12 +12,11 @@ Here is the list of projects and the corresponding nbviewer links:
   * Task: EDA of the U.S. PEV sales data, finding out the top models, top makers, and Tesla vs. Non Tesla sales.
   * Data source: The data file [us-plug-in-ev-sales.csv](https://github.com/eeliuqin/data-analysis/blob/main/data/us-plug-in-ev-sales.csv) contains U.S. Plug-in Electric Vehicle Sales, 2010-2019. It was scraped from 4 websites about auto.
   * Visualization:
-  <p align="center">
-  <a href="https://public.tableau.com/app/profile/qinliu/viz/2010-2019U_S_Plug-inElectricVehiclesPEVSales/PEVSalesStory" target="_blank">
-    <p>Click to view it in Tableau</p>
-    <img alt="PEV Sales Story in Tableau" src="images/pev/tableau-pev-sales.png" width="60%">
-  </a>
-  </p>
+  <div align="center">
+    <p>Click<a href="https://public.tableau.com/app/profile/qinliu/viz/2010-2019U_S_Plug-inElectricVehiclesPEVSales/PEVSalesStory" target="_blank"> here </a>to view it in Tableau</p>
+    <div><img alt="PEV Sales Story in Tableau" src="images/pev/tableau-pev-sales.png" width="60%"></div>
+    </a>
+  </div>
 
   
 - [Analyzing Strategy Games on Apple App Store](https://github.com/eeliuqin/data-analysis/blob/main/mobile-strategy-games.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/mobile-strategy-games.ipynb) to view it in nbviewer)
