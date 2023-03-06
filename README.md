@@ -52,16 +52,6 @@ Here is the list of projects and the corresponding nbviewer links:
 
 ## R
 
-- [Text Mining and Sentiment Analysis for NYC Airbnb Reviews](https://github.com/eeliuqin/data-analysis/blob/main/airbnb-nyc-sentiment-analysis.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/airbnb-nyc-sentiment-analysis.ipynb) to view it in nbviewer)
-  * Task: Performing text mining and sentiment analysis on those reviews. Finding out why users leave negative reviews.
-  * Data source: 2009-2022 New York City Airbnb reviews. The data can be found [here](http://insideairbnb.com/get-the-data/).
-  * Visualization:
-  <p align="center">
-    <img alt="Common English Words" src="images/airbnb/common-words.png" width="46%">
-    &nbsp; &nbsp;
-    <img alt="Words liked to negative terms" src="images/airbnb/negative-terms.png" width="46%">
-  </p>  
-
 - [Capstone Project of the Google Data Analytics Professional Certificate: Cyclistic Bike-Share Analysis](https://github.com/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb) (click [here](https://nbviewer.org/github/eeliuqin/data-analysis/blob/main/google-da-capstone-project-bike-share.ipynb) to view it in nbviewer)
   * Task: Analyzing how the Cyclistic bikes are used differently by casual riders and annual members. Devising a new marketing strategy to turn casual riders into annual members.
   * Data source: Chicago Divvy Bicycle Sharing Data from May, 2021 to April, 2022. The data can be downloaded [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
